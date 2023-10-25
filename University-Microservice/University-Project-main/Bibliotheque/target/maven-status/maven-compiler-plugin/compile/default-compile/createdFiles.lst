@@ -1,0 +1,15 @@
+com\microservices\Entities\Category.class
+com\microservices\Services\AuthorService.class
+com\microservices\Entities\Author.class
+com\microservices\RestController\SearchController.class
+com\microservices\Services\CategoryService.class
+com\microservices\Repositories\CategoryRepository.class
+com\microservices\Repositories\BookRepository.class
+com\microservices\BiblioApplication.class
+com\microservices\RestController\BookController.class
+com\microservices\RestController\CategoryController.class
+com\microservices\Repositories\AutorRepository.class
+com\microservices\Entities\Book.class
+com\microservices\Services\BookService.class
+com\microservices\RestController\AuthorController.class
+com\microservices\Services\SearchService.class

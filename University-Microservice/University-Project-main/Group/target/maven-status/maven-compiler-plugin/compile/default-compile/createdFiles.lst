@@ -1,0 +1,8 @@
+com\microservices\Model\detailsSeminaire$detailsSeminaireBuilder.class
+com\microservices\Model\Seminaire.class
+com\microservices\Repositories\seminaireRep.class
+com\microservices\GroupApplication.class
+com\microservices\Repositories\detailsSeminaireRep.class
+com\microservices\Controller\seminaireController.class
+com\microservices\Model\Seminaire$SeminaireBuilder.class
+com\microservices\Model\detailsSeminaire.class
